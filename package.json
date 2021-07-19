@@ -1,6 +1,6 @@
 {
   "name": "fastify-c9h",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fastify plugin for cottonmouth",
   "repository": "lukecarr/fastify-c9h",
   "license": "MIT",
