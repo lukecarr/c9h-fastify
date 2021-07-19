@@ -1,0 +1,33 @@
+{
+  "name": "fastify-c9h",
+  "version": "0.1.0",
+  "description": "Fastify plugin for cottonmouth",
+  "repository": "lukecarr/fastify-c9h",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "siroc build"
+  },
+  "dependencies": {
+    "c9h": "^0.1.1",
+    "fastify": "^3",
+    "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "release-it": "^14.10.0",
+    "siroc": "^0.14.0",
+    "typescript": "^4.3.5"
+  },
+  "peerDependencies": {}
+}
