@@ -22,6 +22,9 @@
   },
   "license": "MIT",
   "author": "Luke Carr <me+oss@carr.sh> (https://carr.sh/)",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
