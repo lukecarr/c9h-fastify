@@ -528,10 +528,10 @@ builtin-modules@^3.1.0:
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-3.2.0.tgz#45d5db99e7ee5e6bc4f362e008bf917ab5049887"
   integrity sha512-lGzLKcioL90C7wMczpkY0n/oART3MbBa8R9OFGE1rJxoVI86u4WAGfEk8Wjv10eKSyTHVGkSo3bvBylCEtk7LA==
 
-c9h@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/c9h/-/c9h-0.1.1.tgz#76725f6679e5fb9be873772f4a00779b345f5e3e"
-  integrity sha512-zSI35kdDsZ8/qgZ/MjpPrqf00mSajizMqTTrANFOylF4s/+rua7Ug61kyk16yJOIbG/OuzyYKK2bj970Xs93yw==
+c9h@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/c9h/-/c9h-0.2.1.tgz#0bc088d25c44955b866c6746f5184451e0eb06ed"
+  integrity sha512-qaCMYqyKXkOKIQzfuHXAKEmRTtcE/ASeCxFt5NJqCeRT4+iuOzLlM6WV68uxB2dUhAi+OmRwzP6nR03+tUsngQ==
   dependencies:
     "@iarna/toml" "^3.0.0"
     ini "^2.0.0"
