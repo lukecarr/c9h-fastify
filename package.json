@@ -20,7 +20,7 @@
     "build": "siroc build"
   },
   "dependencies": {
-    "c9h": "^0.1.1",
+    "c9h": "^0.2.1",
     "fastify": "^3",
     "fastify-plugin": "^3.0.0"
   },
