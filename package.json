@@ -2,8 +2,26 @@
   "name": "@c9h/fastify",
   "version": "0.0.0",
   "description": "Fastify plugin for cottonmouth",
+  "keywords": [
+    "config",
+    "c9h",
+    "environment",
+    "variables",
+    "env-var",
+    "envvar",
+    "configuration",
+    "typescript",
+    "fastify",
+    "fastify-plugin"
+  ],
+  "homepage": "https://github.com/lukecarr/fastify-c9h#readme",
+  "bugs": "https://github.com/lukecarr/fastify-c9h/issues",
   "repository": "lukecarr/fastify-c9h",
+  "funding": {
+    "url": "https://github.com/lukecarr/c9h#donations"
+  },
   "license": "MIT",
+  "author": "Luke Carr <me+oss@carr.sh> (https://carr.sh/)",
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
