@@ -1,6 +1,6 @@
 {
   "name": "@c9h/fastify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fastify plugin for cottonmouth",
   "keywords": [
     "config",
