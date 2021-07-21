@@ -23,7 +23,8 @@
   "license": "MIT",
   "author": "Luke Carr <me+oss@carr.sh> (https://carr.sh/)",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "cache": "~/.npm"
   },
   "exports": {
     ".": {
