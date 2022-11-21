@@ -6,7 +6,7 @@
     "start": "FASTIFY_C9H_EXAMPLE_HELLO=general_kenobi ts-node src/server.ts"
   },
   "dependencies": {
-    "fastify": "^3.19.1",
+    "fastify": "^3.29.4",
     "ts-node": "^10.1.0"
   }
 }
